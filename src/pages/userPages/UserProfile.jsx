@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import img from "../../assets/logo.png";
+import img from "../../assets/Logo.png";
 import { updateUser, viewUser } from "../../api/Api";
 import toast from "react-hot-toast";
 import { motion } from "framer-motion";
